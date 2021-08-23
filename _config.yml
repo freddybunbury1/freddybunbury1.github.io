@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Freddy Bunbury"
 description              : &description "My Personal Website"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-url                      : https://github.com/freddybunbury1/freddybunbury1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://freddybunbury1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "freddybunbury1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
