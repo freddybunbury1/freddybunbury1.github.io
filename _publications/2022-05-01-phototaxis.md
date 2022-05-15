@@ -6,7 +6,7 @@ excerpt: 'Optimizing light absorption is of paramount importance to photosynthet
 date: 2022-05-02
 venue: 'Applied and Environmental Microbiology'
 paperurl: 'https://journals.asm.org/doi/abs/10.1128/aem.00196-22'
-image: 'phototaxis1.png'
+image: 'phototaxis1.jpg'
 ---
 *Joint work with Carlos Rivas, Victoria Calatrava, Amanda N. Shelton, Arthur Grossman, and Devaki Bhaya*
 
