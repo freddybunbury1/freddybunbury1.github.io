@@ -67,6 +67,8 @@ I advised and participated in an investigation into the feasibility of tackling 
 {% endfor %}
 </ol>
 
+
+
 ## Talks
 <ul>
  {% for post in site.talks %}
@@ -74,7 +76,9 @@ I advised and participated in an investigation into the feasibility of tackling 
     
   {% endfor %}
   </ul>
-  
+
+
+
 ## Teaching
 
 
