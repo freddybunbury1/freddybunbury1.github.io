@@ -60,7 +60,7 @@ I advised and participated in an investigation into the feasibility of tackling 
 
 
 
-  ## Publications
+## Publications
 <ol>
 {% for post in site.publications reversed %}
  {% include archive-single-cv.html %}
@@ -75,7 +75,7 @@ I advised and participated in an investigation into the feasibility of tackling 
     {% include archive-single-talk-cv.html %}
     
   {% endfor %}
-  </ul>
+</ul>
 
 
 
