@@ -2,7 +2,16 @@
 title: "Predicting COVID-19 Transmission to Inform the Management of Mass Events: Model-Based Approach"
 collection: publications
 permalink: /publication/1000-05-01
-excerpt: 'Background:
+excerpt: 'Predicting infectious disease transmission at future public events is a highly uncertain process. In the context of the COVID-19 pandemic, we aimed to systematize the process by 1) reliably model the infectious proportion of participants at a future event, 2) evaluate the efficiency of pre-event screening protocols, and 3) model an event’s transmission dynamics and uncertainty using Monte Carlo simulations. Illustrating the process on a hypothetical concert at the Royal Albert Hall, we tested the effect of factors such as mask wearing, participant reduction, antigen test screening, and delaying the event. Our model is available as a user-friendly RShiny interface and can give event organizers and participants alike an rough understanding of the infection risks associated with attending public events.
+
+date: 2021-12-01
+venue: 'JMIR public health and surveillance'
+paperurl: 'https://publichealth.jmir.org/2021/12/e30648'
+image: 'events.png'
+---
+*Joint work with  Claire Donnat, David Liu, Jack Kreindler, Filippos T. Filippidis, Austen El-Osta, Tõnu Esko, and Matthew Harris.*
+
+Background:
 Modelling COVID-19 transmission at live events and public gatherings is essential to controlling the probability of subsequent outbreaks and communicating to participants their personalized risk. Yet, despite the fast-growing body of literature on COVID-19 transmission dynamics, current risk models either neglect contextual information including vaccination rates or disease prevalence or do not attempt to quantitatively model transmission.
 
 Objective:
@@ -16,14 +25,6 @@ We illustrated the application of our pipeline for a concert at the Royal Albert
 
 Conclusions:
 Despite the unknowns surrounding COVID-19 transmission, our estimation pipeline opens the discussion on contextualized risk assessment by combining the best tools at hand to assess the order of magnitude of the risk. Our model can be applied to any future event and is presented in a user-friendly RShiny interface. Finally, we discussed our model’s limitations as well as avenues for model evaluation and improvement.'
-date: 2021-12-01
-venue: 'JMIR public health and surveillance'
-paperurl: 'https://publichealth.jmir.org/2021/12/e30648'
-image: 'events.png'
----
-*Joint work with  Claire Donnat, David Liu, Jack Kreindler, Filippos T. Filippidis, Austen El-Osta, Tõnu Esko, and Matthew Harris.*
-
-Modelling COVID-19 transmission at live events and public gatherings is essential to evaluate and control the probability of subsequent outbreaks. Model estimates can be used to inform event organizers about the possibility of super-spreading and the predicted efficacy of safety protocols, as well as to communicate to participants their personalised risk so that they may choose whether to attend. Yet, despite the fast-growing body of literature on COVID transmission dynamics, current risk models either neglect contextual information on vaccination rates or disease prevalence or do not attempt to quantitatively model transmission, thus limiting their potential to provide insightful estimates. This paper attempts to bridge this gap by providing informative risk metrics for live public events, along with a measure of their associated uncertainty. Starting with a thorough review of the literature and building upon existing models, our approach ties together three main components: (a) reliable modelling of the number of infectious cases at the time of the event, (b) evaluation of the efficiency of pre-event screening and risk mitigation protocols, and (c) modelling the transmission dynamics during the event. We demonstrate how uncertainty in the input parameters can be included in the model using Monte Carlo simulations. We discuss the underlying assumptions and limitations of our approach and implications for policy around live events management.
 
 [Download paper here](https://publichealth.jmir.org/2021/12/e30648).
 
