@@ -1,7 +1,7 @@
 ---
 title: "Predicting COVID-19 Transmission to Inform the Management of Mass Events: Model-Based Approach"
 collection: publications
-permalink: /publication/2021-05-01
+permalink: /publication/1000-05-01
 excerpt: 'Background:
 Modelling COVID-19 transmission at live events and public gatherings is essential to controlling the probability of subsequent outbreaks and communicating to participants their personalized risk. Yet, despite the fast-growing body of literature on COVID-19 transmission dynamics, current risk models either neglect contextual information including vaccination rates or disease prevalence or do not attempt to quantitatively model transmission.
 
