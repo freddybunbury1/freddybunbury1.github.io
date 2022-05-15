@@ -1,5 +1,5 @@
 ---
-title: "A metE mutant of C. reinhardtii provides new perspectives on algal B12 dependence. (Job Talk) "
+title: "Responses to B12 deprivation in an artificially evolved strain of Chlamydomonas. (Postdoctoral Job Talk) "
 collection: talks
 type: "Talk"
 permalink: /talks/2019-06-01-job-berkeley
