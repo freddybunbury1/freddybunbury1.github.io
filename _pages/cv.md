@@ -28,10 +28,16 @@ redirect_from:
 __<span style="color: grey;">   Carnegie Institution for Science, *Stanford, California, USA* </span>__ \\
     The goal of my research is to understand the dynamics of microbial communities consisting of interacting and coevolving species well enough to be able to model how they would respond to abiotic or biotic perturbations. I will be working with microbial communities and isolates from hot spring mats in Yellowstone NP and collaborating with biologists, physicists and computer scientists, primarily from Cambridge and Stanford. 
 
+
+<img src="{{ site.baseurl }}/images/codi.png" alt="gain" width="100" style="float: left; margin-right: 3em;"/>
+* __April 2020 -  August 2021  :  Founder and Project leader for CODI__\\
+__<span style="color: grey;"> Global Alliance for Improved Nutrition (GAIN), *London, United Kingdom*</span>__ \\
+During the COVID-19 quarantine, as labs were shut and experiments stalled, I started and led a team at the MIT COVID Hackathon that focused on leveraging rapid antibody/antigen testing with additional patient information to increase diagnostic accuracy. Following our win, I pushed this project further, by including more people (statisticians, developers, doctors) and developing the idea. Our proposed solution led us to win three more data challenges with prizes over 100,000 dollars, and publish two papers (one on the methodology, and one on its application to the management of large events). The Rshiny app we created was integrated and maintained by a testing company (CERTIFIC).
+
 <img src="{{ site.baseurl }}/images/gain.png" alt="gain" width="100" style="float: left; margin-right: 3em;"/>
 * __June 2017 -  August 2017  : Research Intern__\\
 __<span style="color: grey;"> Global Alliance for Improved Nutrition (GAIN), *London, United Kingdom*</span>__ \\
-I created a model to calculate the health impacts, specifically the reduction in prevalence of Neural tube defects (NTDs), resulting from mandatory folic acid fortification of cereal grains. This allowed me to estimate the total number of global NTD cases that could be averted, and in which countries the coverage and impact of fortification was likely to be greatest
+I spent 3 months trying to understand and address the problem of global folate deficiency. I created a model that significantly improved upon the process of estimating how many births with Neural Tube defects could be averted in different regions by mandating folic acid fortification of cereal grains, and therefore could help GAIN prioritise their efforts.
 
 
 <img src="{{ site.baseurl }}/images/global_eq.jpeg" alt="gain" width="100" style="float: left; margin-right: 3em;"/>
