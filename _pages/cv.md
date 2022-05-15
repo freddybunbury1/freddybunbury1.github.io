@@ -31,7 +31,7 @@ __<span style="color: grey;">   Carnegie Institution for Science, *Stanford, Cal
 
 <img src="{{ site.baseurl }}/images/codi.png" alt="gain" width="100" style="float: left; margin-right: 3em;"/>
 * __April 2020 -  August 2021  :  Founder and Project leader for CODI__\\
-__<span style="color: grey;"> Global Alliance for Improved Nutrition (GAIN), *London, United Kingdom*</span>__ \\
+__<span style="color: grey;"> Combined Diagnostics (CODI), *Stanford, California, USA*</span>__ \\
 During the COVID-19 quarantine, as labs were shut and experiments stalled, I started and led a team at the MIT COVID Hackathon that focused on leveraging rapid antibody/antigen testing with additional patient information to increase diagnostic accuracy. Following our win, I pushed this project further, by including more people (statisticians, developers, doctors) and developing the idea. Our proposed solution led us to win three more data challenges with prizes over 100,000 dollars, and publish two papers (one on the methodology, and one on its application to the management of large events). The Rshiny app we created was integrated and maintained by a testing company (CERTIFIC).
 
 <img src="{{ site.baseurl }}/images/gain.png" alt="gain" width="100" style="float: left; margin-right: 3em;"/>
