@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am a Postdoctoral fellow working in Arthur Grossman and Devaki Bhaya's lab at the Carnegie Institution for Science Department of Plant Biology on the Stanford Campus. I currently study the phenotypes and genetics of thermophilic bacteria from Yellowstone hot spring biofilms to better understand how these biofilm communities have coevolved to thrive in such extreme environments. In my PhD at Cambridge University, I studied the metabolic consequences of vitamin B12 deprivation in microalgae, and their mutualistic relationships with B12-producing bacteria.
+I am intrigued by the metabolic and physical interactions between environmental microbes. I have worked with algae from Antarctica to cyanobacteria in the hot springs of Yellowstone National Park. Nutrient exchange underpins most symbioses and I have focused on the transfer of vitamin B12 from bacteria to algae in return for photosynthate. However, physical associations are also a crucial facet of symbioses and I'm currently working on how motility and cellular interactions build biofilm structure. Going forward I am exploring how microbial communities, and particularly their keystone species, may acclimate and adapt to changing temperatures.
 
 During the COVID-19 lockdown in 2020, I worked with statisticians and medical doctors from the University of Chicago, University of California Santa Barbara, and Imperial College London on two COVID-related projects. The first project sought to improve the accuracy of COVID diagnoses by combining lateral flow assays with questionnaire results ([enriching antigen testing]()). The second devised a framework and user-friendly tool to estimate COVID transmission risk at live events ([management of live events]()).
 
