@@ -1,7 +1,7 @@
 ---
 title: "Predicting COVID-19 Transmission to Inform the Management of Mass Events: Model-Based Approach"
 collection: publications
-permalink: /publication/1000-05-01
+permalink: /publication/2000-05-01
 excerpt: 'Predicting infectious disease transmission at future public events is a highly uncertain process. In the context of the COVID-19 pandemic, we aimed to systematize the process by 1) reliably model the infectious proportion of participants at a future event, 2) evaluate the efficiency of pre-event screening protocols, and 3) model an event’s transmission dynamics and uncertainty using Monte Carlo simulations. Illustrating the process on a hypothetical concert at the Royal Albert Hall, we tested the effect of factors such as mask wearing, participant reduction, antigen test screening, and delaying the event. Our model is available as a user-friendly RShiny interface and can give event organizers and participants alike an rough understanding of the infection risks associated with attending public events.
 
 date: 2021-12-01
