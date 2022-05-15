@@ -2,13 +2,13 @@
 title: "Quantitative proteomics of a B12‐dependent alga grown in coculture with bacteria reveals metabolic tradeoffs required for mutualism"
 collection: publications
 permalink: /publication/2018-01-02-proteomics
-excerpt: 'The unicellular green alga Lobomonas rostrata requires an external supply of vitamin B12 (cobalamin) for growth, which it can obtain in stable laboratory cultures from the soil bacterium Mesorhizobium loti in exchange for photosynthate. We investigated changes in protein expression in the alga that allow it to engage in this mutualism..'
+excerpt: 'Many algae, such as the Chlamydomonas relative, L. rostrata, require vitamin B12 for growth, which can be provided by certain bacteria in their environment. We used iTRAQ proteomics to determine the L. rostrata proteome when grown axenically (with B12 supplementation) or in coculture with the bacterium Mesorhizobium loti. Amino acid biosynthesis was higher, but photosynthesis proteins and electron transfer lower in coculture indicating that despite the stability of the mutualism, L. rostrata experiences stress in coculture and may adjust its metabolism accordingly.'
 date: 2018-01-01
 venue: 'New Phytologist'
 paperurl: 'https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14832'
 image: 'proteomics.png'
 ---
-*Joint work with  Katherine E. Helliwell, Jagroop Pandhal, Matthew B. Cooper, Joseph Longworth, Ulrich Johan Kudahl, David A. Russo, Eleanor V. Tomsett,  Deborah L. Salmon, Nicholas Smirnoff, Phillip C. Wright, Alison G. Smith.* 
+*Joint work with  Katherine E. Helliwell, Jagroop Pandhal, Matthew B. Cooper, Joseph Longworth, Ulrich Johan Kudahl, David A. Russo, Eleanor V. Tomsett,  Deborah L. Salmon, Nicholas Smirnoff, Phillip C. Wright, Alison G. Smith.*
 
 + The unicellular green alga Lobomonas rostrata requires an external supply of vitamin B12 (cobalamin) for growth, which it can obtain in stable laboratory cultures from the soil bacterium Mesorhizobium loti in exchange for photosynthate. We investigated changes in protein expression in the alga that allow it to engage in this mutualism.
 + We used quantitative isobaric tagging (iTRAQ) proteomics to determine the L. rostrata proteome grown axenically with B12 supplementation or in coculture with M. loti. Data are available via ProteomeXchange (PXD005046).
