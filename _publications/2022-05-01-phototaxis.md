@@ -1,18 +1,19 @@
 ---
-title: "Microbial mutualism at a distance: The role of geometry in diffusive exchanges"
+title: "Differential Phototactic Behavior of Closely Related Cyanobacterial Isolates from Yellowstone Hot Spring Biofilms"
 collection: publications
-permalink: /publication/2018-01-01-mutualism
-excerpt: 'The exchange of diffusive metabolites is known to control the spatial patterns formed by microbial populations, as revealed by recent studies in the laboratory. However, the matrices used, such as agarose pads, lack the structured geometry of many natural microbial habitats, including in the soil or on the surfaces of plants or animals. Here we address the important question of how such geometry may control diffusive exchanges and microbial interaction. We model mathematically mutualistic interactions within a minimal unit of structure: two growing reservoirs linked by a diffusive channel through which metabolites are exchanged. The model is applied to study a synthetic mutualism, experimentally parametrized on a model algal-bacterial co-culture. Analytical and numerical solutions of the model predict conditions for the successful establishment of remote mutualisms, and how this depends, often counterintuitively, on diffusion geometry. We connect our findings to understanding complex behavior in synthetic and naturally occurring microbial communities'
-date: 2018-01-01
-venue: 'Phys. Rev. E'
-paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.022411'
-image: 'mutualism1.png'
+permalink: /publication/2022-05-01-phototaxis
+excerpt: 'Optimizing light absorption is of paramount importance to photosynthetic organisms. Some photosynthetic microbes have evolved a sophisticated process called phototaxis to move toward or away from a light source. In many hot springs in Yellowstone National Park, cyanobacteria thrive in thick, laminated biofilms or microbial mats, where small movements can result in large changes in light exposure. We quantified the light-dependent motility behaviors in isolates representing two of the most abundant and closely related cyanobacterial species from these springs. We found that they exhibited unexpected differences in their speed, directionality, and responses to different intensities or qualities of light. An examination of their genomes revealed several variations from well-studied phototaxis-related genes. Studying these recently isolated cyanobacteria reveals that diverse phototactic strategies can exist even among close relatives in the same environment. It also provides insights into the importance of phototaxis for growth and survival in microbial biofilm communities.'
+date: 2022-05-02
+venue: 'Applied and Environmental Microbiology'
+paperurl: 'https://journals.asm.org/doi/abs/10.1128/aem.00196-22'
+image: 'phototaxis1.png'
 ---
-*Joint work with François J. Peaudecerf, Vaibhav Bhardwaj, Martin A. Bees, Alison G. Smith, Raymond E. Goldstein, and Ottavio A. Croze* 
+*Joint work with Carlos Rivas, Victoria Calatrava, Amanda N. Shelton, Arthur Grossman, and Devaki Bhaya*
 
-The exchange of diffusive metabolites is known to control the spatial patterns formed by microbial populations, as revealed by recent studies in the laboratory. However, the matrices used, such as agarose pads, lack the structured geometry of many natural microbial habitats, including in the soil or on the surfaces of plants or animals. Here we address the important question of how such geometry may control diffusive exchanges and microbial interaction. We model mathematically mutualistic interactions within a minimal unit of structure: two growing reservoirs linked by a diffusive channel through which metabolites are exchanged. The model is applied to study a synthetic mutualism, experimentally parametrized on a model algal-bacterial co-culture. Analytical and numerical solutions of the model predict conditions for the successful establishment of remote mutualisms, and how this depends, often counterintuitively, on diffusion geometry. We connect our findings to understanding complex behavior in synthetic and naturally occurring microbial communities.
+Optimizing light absorption is of paramount importance to photosynthetic organisms. Some photosynthetic microbes have evolved a sophisticated process called phototaxis to move toward or away from a light source. In many hot springs in Yellowstone National Park, cyanobacteria thrive in thick, laminated biofilms or microbial mats, where small movements can result in large changes in light exposure. We quantified the light-dependent motility behaviors in isolates representing two of the most abundant and closely related cyanobacterial species from these springs. We found that they exhibited unexpected differences in their speed, directionality, and responses to different intensities or qualities of light. An examination of their genomes revealed several variations from well-studied phototaxis-related genes. Studying these recently isolated cyanobacteria reveals that diverse phototactic strategies can exist even among close relatives in the same environment. It also provides insights into the importance of phototaxis for growth and survival in microbial biofilm communities.
 
-[Download paper here]https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.022411).
+[Download paper here]https://journals.asm.org/doi/abs/10.1128/aem.00196-22).
 
 
-Recommended citation: Peaudecerf, François J., __Freddy Bunbury__, Vaibhav Bhardwaj, Martin A. Bees, Alison G. Smith, Raymond E. Goldstein, and Ottavio A. Croze. "Microbial mutualism at a distance: The role of geometry in diffusive exchanges." <i>Physical Review E 97, no. 2 (2018): 022411</i>.
+Recommended citation:
+__Freddy Bunbury__, Carlos Rivas, Victoria Calatrava, Amanda N. Shelton, Arthur Grossman, and Devaki Bhaya. "Differential Phototactic Behavior of Closely Related Cyanobacterial Isolates from Yellowstone Hot Spring Biofilms." <i>Applied and Environmental Microbiology (2022): e00196-22</i>.
