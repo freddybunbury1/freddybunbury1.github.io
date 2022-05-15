@@ -1,8 +1,8 @@
 ---
 title: "A Bayesian Hierarchical Network for Combining Heterogeneous Data Sources in Medical Diagnoses"
 collection: publications
-permalink: /publication/2015-04-01-bayesian-covid
-excerpt: 'Medical practitioners often reach a diagnosis after combining a patient's medical history, their answers to certain questions, and the results of medical tests. We sought to apply this framework in an automated manner using online questionnaires and lateral flow test results. We devised a Stochastic Expectation-Maximization algorithm within a Bayesian formalism to combine heterogeneous data sources, quantify their uncertainty and produce a probabilistic diagnosis. We quantify the potential of this approach on simulated data, and showcase its practicality by deploying it on a real COVID-19 immunity study.'
+permalink: /publication/2016-04-01-bayesian-covid
+excerpt: "Medical practitioners often reach a diagnosis after combining a patient's medical history, their answers to certain questions, and the results of medical tests. We sought to apply this framework in an automated manner using online questionnaires and lateral flow test results. We devised a Stochastic Expectation-Maximization algorithm within a Bayesian formalism to combine heterogeneous data sources, quantify their uncertainty and produce a probabilistic diagnosis. We quantify the potential of this approach on simulated data, and showcase its practicality by deploying it on a real COVID-19 immunity study."
 date: 2020-06-01
 venue: 'Proceedings of the Machine Learning for Health NeurIPS Workshop'
 paperurl: 'http://proceedings.mlr.press/v136/donnat20a/donnat20a.pdf'
