@@ -3,7 +3,7 @@ title: "Demonstrator for Plant Physiology and Cell Biology practicals"
 collection: teaching
 type: "Practical class"
 permalink: /teaching/2016-winter-teaching-1
-venue: "Cambridge, Department of Plant Biology"
+venue: "Cambridge, Department of Plant Sciences"
 date: 2016-01-10
 location: "Cambridge, UK"
 ---

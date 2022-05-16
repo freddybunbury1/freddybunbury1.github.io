@@ -3,7 +3,7 @@ title: "Mentor for final year undergraduate project in Plant Sciences"
 collection: teaching
 type: "Practical class"
 permalink: /teaching/2016-fall-teaching-1
-venue: "Cambridge, Department of Plant Biology"
+venue: "Cambridge, Department of Plant Sciences"
 date: 2016-10-10
 location: "Cambridge, UK"
 ---
