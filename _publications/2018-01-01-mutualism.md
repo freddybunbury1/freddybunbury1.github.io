@@ -2,7 +2,7 @@
 title: "Microbial mutualism at a distance: The role of geometry in diffusive exchanges"
 collection: publications
 permalink: /publication/2018-01-01-mutualism
-excerpt: 'The exchange of diffusive metabolites is known to control the spatial patterns formed by microbial populations, but most laboratory conditions do not replicate the complex geometry of natural habitats.  We mathematically model mutualistic interactions within a minimal unit of structure: two growing reservoirs linked by a diffusive channel through which metabolites are exchanged. Analytical and numerical solutions of the model, parametrized on a defined algal-bacterial mutualism, predict the necessary establishment conditions and how this depends, often counterintuitively, on diffusion geometry. We connect our findings to understanding complex behavior in synthetic and naturally occurring microbial communities'
+excerpt: 'The exchange of diffusive metabolites is known to control the spatial patterns formed by microbial populations, but most laboratory conditions do not replicate the complex geometry of natural habitats.  We mathematically model mutualistic interactions within a minimal unit of structure: two growing reservoirs linked by a diffusive channel through which metabolites are exchanged. Analytical and numerical solutions of the model, parametrized on a defined algal-bacterial mutualism, predict the necessary establishment conditions and how this depends, often counterintuitively, on diffusion geometry. We connect our findings to understanding complex behavior in synthetic and naturally occurring microbial communities.'
 date: 2018-01-01
 venue: 'Phys. Rev. E'
 paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.022411'

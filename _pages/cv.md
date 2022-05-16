@@ -48,9 +48,9 @@ I advised and participated in an investigation into the feasibility of tackling 
 
 ## Honors and Awards
 
-* __C3.AI COVID Grand Challenge winner__ (2020): 1st place --- 100,000 dollars prize.\\
+* __C3.AI COVID Grand Challenge winner__ (2020): 1st place --- 100,000 dollar prize.\\
 [Link to a video presentation of our submission](https://c3.ai/c3-ai-covid-19-grand-challenge/)
-* __Lumiata COVID-19 hackathon overall winner__  (2020): 1st place --- 10,000 dollars prize.
+* __Lumiata COVID-19 hackathon overall winner__  (2020): 1st place --- 10,000 dollar prize.
 * __MIT COVID-19 Challenge winner__ (2020)
 * __Young Microbiologist of the Year Finalist__ (2019)
 * __BBSRC DTP Studentship__
