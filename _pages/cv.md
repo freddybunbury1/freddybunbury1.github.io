@@ -14,7 +14,7 @@ redirect_from:
 <img src="{{ site.baseurl }}/images/cambridge.png" alt="drawing" width="100" style="float: left; margin-right: 3em;"/>
 * B.S. in Natural Sciences, University of Cambridge, United Kingdom, 2014
 * M.S. in Microbiology, University of Cambridge, United Kingdom, 2015
-* Ph.D in Plant Microbiology, University of Cambridge, 2019 
+* Ph.D in Plant Microbiology, University of Cambridge, 2019
 
 
 
@@ -26,7 +26,7 @@ redirect_from:
 <img src="{{ site.baseurl }}/images/carnegie.jpeg" alt="drawing" width="100" style="float: left; margin-right: 3em;"/>
 * __September 2019 - Present : Postdoctoral Researcher__\\
 __<span style="color: grey;">   Carnegie Institution for Science, *Stanford, California, USA* </span>__ \\
-    The goal of my research is to understand the dynamics of microbial communities consisting of interacting and coevolving species well enough to be able to model how they would respond to abiotic or biotic perturbations. I will be working with microbial communities and isolates from hot spring mats in Yellowstone NP and collaborating with biologists, physicists and computer scientists, primarily from Cambridge and Stanford. 
+    The goal of my research is to understand the dynamics of microbial communities consisting of interacting and coevolving species well enough to be able to model how they would respond to abiotic or biotic perturbations. I will be working with microbial communities and isolates from hot spring mats in Yellowstone NP and collaborating with biologists, physicists and computer scientists, primarily from Cambridge and Stanford.
 
 
 <img src="{{ site.baseurl }}/images/codi.png" alt="gain" width="100" style="float: left; margin-right: 3em;"/>
@@ -73,7 +73,7 @@ I advised and participated in an investigation into the feasibility of tackling 
 <ul>
  {% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-    
+
   {% endfor %}
 </ul>
 
@@ -85,8 +85,8 @@ I advised and participated in an investigation into the feasibility of tackling 
 * __January 2017-March 2018: Supervisor__
   * University of Cambridge, UK
   * I tutored first-year Trinity undergraduates in the Physiology of Organisms course for the Lent term of 2017 and 2018. This was a very rewarding experience in teaching some of the most enthusiastic and able students about comparative animal and plant physiology.
-  
+
 ## Miscellaneous
 
-* Captain of the Pentathlon team
-* Pole Vaulting
+* Men's Captain of the Cambridge University Modern Pentathlon Club
+* Captain of the Cambridge University Athletics club Pole Vaulting squad
