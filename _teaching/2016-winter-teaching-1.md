@@ -8,7 +8,7 @@ date: 2016-01-10
 location: "Cambridge, UK"
 ---
 
-The BioBUDS course was a new course at Stanford for Building Up Developing Scientists, particularly for people with minimal research experience and underrepresented backgrounds. Ronan Esperanza was a great mentee who worked hard and displayed a good deal of scientific creativity during the 10-week program. We worked together on understanding more about the way in which thermophilic cyanobacteria respond dynamically to changing light intensity and quality. Ronan produced a fantastic presentation on his work which drew the attention of many of his peers.
+I helped to organise and run undergraduate practicals for two courses in the Natural Sciences Tripos. These involved helping students design experiments, perform PCR reactions, assay enzyme activity and use microscopy to investigate plant traits.
 
 Heading 1
 ======
