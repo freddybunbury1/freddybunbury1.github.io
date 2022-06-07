@@ -81,10 +81,18 @@ I advised and participated in an investigation into the feasibility of tackling 
 
 ## Teaching
 
+* __Mentor for the Carnegie Summer Internship Program, June 2022-August 2022, Carnegie Institution for Science, Department of Plant Biology__
 
-* __January 2017-March 2018: Supervisor__
-  * University of Cambridge, UK
-  * I tutored first-year Trinity undergraduates in the Physiology of Organisms course for the Lent term of 2017 and 2018. This was a very rewarding experience in teaching some of the most enthusiastic and able students about comparative animal and plant physiology.
+* __Mentor for the Stanford BioBUDS Program, January 2022-March 2022, Carnegie Institution for Science, Department of Plant Biology__
+
+* __Mentor for final year undergraduate research project, January 2018-April 2018, University of Cambridge, Department of Plant Sciences__
+
+* __Undergraduate Supervisor, January 2017-March 2018, University of Cambridge, UK:__
+
+* __Mentor for final year undergraduate research project, January 2017-April 2017, University of Cambridge, Department of Plant Sciences__
+
+* __Demonstrator for Plant Physiology and Cell Biology practicals, 2016-2018, University of Cambridge__
+
 
 ## Miscellaneous
 
