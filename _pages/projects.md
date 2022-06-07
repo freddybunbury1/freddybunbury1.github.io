@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
-
+My contributions to all my current projects are being performed in Arthur Grossman and Devaki Bhaya’s laboratory at the Carnegie Institution for Science. I am supported by funding from the National Science Foundation as part of an NSF-BBSRC collaborative grant awarded to Alison Smith, Chris Howe, Seppe Kuehn, Devaki Bhaya and Arthur Grossman’s labs. 
 
 __How do cells move and physically interact to construct dynamic biofilms?__\\
 __<span style="color:grey;font-style:italic;font-size:smaller;">   Collaborators: Andrey Malkovskiy, Victoria Calatrava, Carlos Rivas, SLAC scientists (Lydia-Marie Joubert and others), EMSL scientists (Amar Parvate and others). </span>__
