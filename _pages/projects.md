@@ -17,20 +17,28 @@ __<span style="color:grey;font-style:italic;font-size:smaller;">   Collaborators
 We’re using time lapse video microscopy to image motile cells and particle tracking algorithms to determine how they respond to changing stimuli. At the collective level we are interested in how cells of different species cooperate physically and how that alters the biofilm-like structures that they form. At the subcellular level, and with the help of scientists at SLAC and an EMSL exploratory grant, we are investigating the physical interactions between cells and the structures used for motility and cell attachment.
 <br>
 <br>
-
+<br>
+<br>
+<br>
 
 
 __Can we disentangle nutrient exchange in hot spring biofilms using a synthetic community approach?__\\
-__<span style="color: grey;">   Collaborators: Amanda Shelton, Carlos Rivas, EMSL scientists (Mary Lipton and others). </span>__
+__<span style="color:grey;font-style:italic;font-size:smaller;">   Collaborators: Amanda Shelton, Carlos Rivas, EMSL scientists (Mary Lipton and others). </span>__
 
 <img src="{{ site.baseurl }}/images/Synthetic_cultures_2.png" alt="drawing" width="400" style="float: left; margin-right: 3em;"/>
 Taking a bottom-up approach to understanding microbial communities, we are studying how major microbial mat members grow together in coculture. We are interested in the metabolites that are transferred between these microbes and how their gene expression is altered upon association. We believe that our findings from simplified communities will help to determine the role of different species in the natural hot spring mat environment.   
 <br>
 <br>
+<br>
+<br>
+<br>
 
 
 __Can we isolate, grow, sequence, and manipulate new species from thermophilic bacterial communities?__\\
-__<span style="color: grey;">   Collaborators: Amanda Shelton, Brian Yu, Zeqian Li, Carlos Rivas, Victoria Calatrava. </span>__
+__<span style="color:grey;font-style:italic;font-size:smaller;">   Collaborators: Amanda Shelton, Brian Yu, Zeqian Li, Carlos Rivas, Victoria Calatrava. </span>__
+<br>
+<br>
+<br>
 <br>
 <br>
 
