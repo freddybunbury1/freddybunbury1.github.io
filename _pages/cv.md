@@ -48,7 +48,7 @@ I advised and participated in an investigation into the feasibility of tackling 
 
 ## Honors and Awards
 
-* __EMSL Exploratory research grant (2021)__
+* __EMSL Exploratory research grant__ (2021)
 * __C3.AI COVID Grand Challenge winner__ (2020): 1st place --- 100,000 dollar prize.\\
 [Link to a video presentation of our submission](https://c3.ai/c3-ai-covid-19-grand-challenge/)
 * __Lumiata COVID-19 hackathon overall winner__  (2020): 1st place --- 10,000 dollar prize.
@@ -82,17 +82,17 @@ I advised and participated in an investigation into the feasibility of tackling 
 
 ## Teaching
 
-* __Mentor for the Carnegie Summer Internship Program, June 2022-August 2022, Carnegie Institution for Science, Department of Plant Biology__
+* Mentor for the Carnegie Summer Internship Program, June 2022-August 2022, Carnegie Institution for Science, Department of Plant Biology
 
-* __Mentor for the Stanford BioBUDS Program, January 2022-March 2022, Carnegie Institution for Science, Department of Plant Biology__
+* Mentor for the Stanford BioBUDS Program, January 2022-March 2022, Stanford University
 
-* __Mentor for final year undergraduate research project, January 2018-April 2018, University of Cambridge, Department of Plant Sciences__
+* Mentor for final year undergraduate research project, January 2018-April 2018, University of Cambridge, Department of Plant Sciences
 
-* __Undergraduate Supervisor, January 2017-March 2018, University of Cambridge, UK:__
+* Undergraduate Supervisor, January 2017-March 2018, University of Cambridge
 
-* __Mentor for final year undergraduate research project, January 2017-April 2017, University of Cambridge, Department of Plant Sciences__
+* Mentor for final year undergraduate research project, January 2017-April 2017, University of Cambridge, Department of Plant Sciences
 
-* __Demonstrator for Plant Physiology and Cell Biology practicals, 2016-2018, University of Cambridge__
+* Demonstrator for Plant Physiology and Cell Biology practicals, 2016-2018, University of Cambridge
 
 
 ## Miscellaneous
