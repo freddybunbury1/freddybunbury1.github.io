@@ -8,4 +8,7 @@ image: 'Cooperative_motility.jpg'
 
 {% include base_path %}
 
+
+<img src="{{ site.baseurl }}/images/Cooperative_motility.jpg" alt="drawing"/>
+
 [UNDER CONSTRUCTION]
