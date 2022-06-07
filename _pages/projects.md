@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Current (Working) Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -36,11 +36,6 @@ Taking a bottom-up approach to understanding microbial communities, we are study
 
 __Can we isolate, grow, sequence, and manipulate new species from thermophilic bacterial communities?__\\
 __<span style="color:grey;font-style:italic;font-size:smaller;">   Collaborators: Amanda Shelton, Brian Yu, Zeqian Li, Carlos Rivas, Victoria Calatrava. </span>__
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <img src="{{ site.baseurl }}/images/Thermophile_isolates.png" alt="drawing" width="400" style="float: left; margin-right: 3em;"/>
 To really understand the charismatic extremophiles in the hot springs of Yellowstone, we are isolating and axenically culturing several species from the mat community. We hope to assess the parameter landscape that leads to their robust growth and to characterize their metabolic potential. We also aim to sequence several isolates to link their phenotypes to their gene content, and are investigating the potential for interrogating their genomes through targeted genetic manipulation.  
