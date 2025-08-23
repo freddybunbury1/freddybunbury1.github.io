@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am a Research Scientist at the University of Chicago. My research has broadly focused on environmental microbe's responses to their physical and chemical environment, from short-term acclimation to long-term evolution. I currently investigate how the most heat-tolerant photosynthetic microbes on Earth survive in the extreme environment of Yellowstone's hot springs. Additionally, I collaborate with Seppe Kuehn's lab to study vitamin B12 transfer between bacteria. 
+I am a Research Scientist at the University of Chicago. My research has broadly focused on environmental microbes' responses to their physical and chemical environment, from short-term acclimation to long-term evolution. I currently investigate how cyanobacteria survive in the extreme environment of Yellowstone's hot springs, and collaborate with Seppe Kuehn's lab to study vitamin B12 transfer between bacteria. 
