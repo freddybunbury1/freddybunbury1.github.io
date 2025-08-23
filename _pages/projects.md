@@ -9,23 +9,14 @@ author_profile: true
 
 I am currently a Research Scientist at the University of Chicago supported by funding from the National Science Foundation, Allen Family Philanthrophies, and the University of Chicago. 
 
-__How do cells move and physically interact to construct dynamic biofilms?__\\
-__<span style="color:grey;font-style:italic;font-size:smaller;">   Collaborators: Andrey Malkovskiy, Victoria Calatrava, Carlos Rivas, SLAC scientists (Lydia-Marie Joubert and others), EMSL scientists (Amar Parvate and others). </span>__
-
-<img src="{{ site.baseurl }}/images/Cooperative_motility_2.png" alt="drawing" width="400" style="float: left; margin-right: 3em;"/>
-We’re using time lapse video microscopy to image motile cells and particle tracking algorithms to determine how they respond to changing stimuli. At the collective level we are interested in how cells of different species cooperate physically and how that alters the biofilm-like structures that they form. At the subcellular level, and with the help of scientists at SLAC and an EMSL exploratory grant, we are investigating the physical interactions between cells and the structures used for motility and cell attachment.
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
-__Can we disentangle nutrient exchange in hot spring biofilms using a synthetic community approach?__\\
-__<span style="color:grey;font-style:italic;font-size:smaller;">   Collaborators: Amanda Shelton, Carlos Rivas, EMSL scientists (Mary Lipton and others). </span>__
 
-<img src="{{ site.baseurl }}/images/Synthetic_cultures_2.png" alt="drawing" width="400" style="float: left; margin-right: 3em;"/>
-Taking a bottom-up approach to understanding microbial communities, we are studying how major microbial mat members grow together in coculture. We are interested in the metabolites that are transferred between these microbes and how their gene expression is altered upon association. We believe that our findings from simplified communities will help to determine the role of different species in the natural hot spring mat environment.   
+__How have cyanobacteria evolved to survive in hot springs?__\\
+__<span style="color:grey;font-style:italic;font-size:smaller;">  
+
+#<img src="{{ site.baseurl }}/images/Synthetic_cultures_2.png" alt="drawing" width="400" style="float: left; margin-right: 3em;"/>
+My research investigates how cyanobacteria adapt near the upper temperature limit for photosynthesis by integrating genomic, transcriptomic, and metabolomic data with eco-evolutionary processes. I am focusing on identifying genomic predictors of thermal tolerance, distinguishing adaptive from maladaptive stress responses, and testing whether horizontal gene transfer accelerates the evolution of thermotolerance. 
 <br>
 <br>
 <br>
@@ -33,8 +24,23 @@ Taking a bottom-up approach to understanding microbial communities, we are study
 <br>
 
 
-__Can we isolate, grow, sequence, and manipulate new species from thermophilic bacterial communities?__\\
-__<span style="color:grey;font-style:italic;font-size:smaller;">   Collaborators: Amanda Shelton, Brian Yu, Zeqian Li, Carlos Rivas, Victoria Calatrava. </span>__
+__How is vitamin B12 transferred between microbes?__\\
+__<span style="color:grey;font-style:italic;font-size:smaller;">  
+Many microbes are dependent on others for their source of vitamin B12. I aim to better understand the ecology of vitamin B12 transfer by quantifying B12 production, release, and uptake rates across multiple bacterial species. I hope to determine the potential contributions of lysis and secretion to the vitamin B12 pool, and how various scavengers compete for B12 uptake.
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<img src="{{ site.baseurl }}/images/Thermophile_isolates.png" alt="drawing" width="400" style="float: left; margin-right: 3em;"/>
-To really understand the charismatic extremophiles in the hot springs of Yellowstone, we are isolating and axenically culturing several species from the mat community. We hope to assess the parameter landscape that leads to their robust growth and to characterize their metabolic potential. We also aim to sequence several isolates to link their phenotypes to their gene content, and are investigating the potential for interrogating their genomes through targeted genetic manipulation.  
+
+__How do microbes move and interact to construct dynamic biofilms?__\\
+__<span style="color:grey;font-style:italic;font-size:smaller;">
+
+#<img src="{{ site.baseurl }}/images/Cooperative_motility_2.png" alt="drawing" width="400" style="float: left; margin-right: 3em;"/>
+I am interested in how different microbes cooperate physically and build dynamic biofilms. At the single cell level, I have quantified how bacteria move in response to light via phototaxis. At the subcellular level, we investigate the physical interactions between cells and the structures used for motility and cell attachment.
+<br>
+<br>
+<br>
+<br>
+<br>
