@@ -1,33 +1,9 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Freddy Bunbury</title>
   <style>
-    .profile-header {
-  display: flex;
-  gap: 30px;
-  align-items: center;
-  margin-bottom: 50px;
-}
-
-.profile-photo {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-}
-
-@media (max-width: 650px) {
-  .profile-header {
-    display: block;
-  }
-
-  .profile-photo {
-    margin-bottom: 20px;
-  }
-}
     body {
       font-family: -apple-system, BlinkMacSystemFont, sans-serif;
       max-width: 800px;
@@ -36,11 +12,39 @@
       padding: 0 20px;
       color: #222;
     }
+
     h1 { font-size: 2.2em; margin-bottom: 0.2em; }
     h2 { margin-top: 2em; }
+
     a { color: #0366d6; text-decoration: none; }
     a:hover { text-decoration: underline; }
+
     .section { margin-top: 60px; }
+
+    .profile-header {
+      display: flex;
+      gap: 30px;
+      align-items: center;
+      margin-bottom: 50px;
+    }
+
+    .profile-photo {
+      width: 110px;
+      height: 110px;
+      border-radius: 50%;
+      object-fit: cover;
+      flex-shrink: 0;
+    }
+
+    @media (max-width: 650px) {
+      .profile-header {
+        display: block;
+      }
+
+      .profile-photo {
+        margin-bottom: 20px;
+      }
+    }
   </style>
 </head>
 
@@ -48,6 +52,7 @@
 
 <div class="profile-header">
   <img src="./media/headshot-1.jpg" alt="Freddy Bunbury" class="profile-photo">
+
   <div>
     <h1>Freddy Bunbury</h1>
 
@@ -64,79 +69,81 @@
 </div>
 
 <div class="section">
-<h2>Research</h2>
+  <h2>Research</h2>
 
-<p><strong>Interaction traits: vitamin B<sub>12</sub> exchange</strong><br>
-I quantify B12 synthesis, release, and uptake traits across bacterial isolates to understand how metabolites are shared and how this shapes community structure.
-</p>
+  <p>
+    <strong>Interaction traits: vitamin B<sub>12</sub> exchange</strong><br>
+    I quantify B<sub>12</sub> synthesis, release, and uptake traits across bacterial isolates to understand how metabolites are shared and how this shapes community structure.
+  </p>
 
-<p><strong>Intrinsic traits: thermotolerance</strong><br>
-I study how cyanobacteria adapt to high temperatures in hot springs, linking genomic features to growth and environmental distributions.
-</p>
-
-<div class="section">
-<h2>Selected publications</h2>
-
-<p>
-<strong>Bunbury F</strong>, Janas T, Ghosh S, Scorza K, Mullen P, Donnat C et al.
-<em>Bacterial vitamin sharing emerges from a balance between release and uptake.</em>
-In preparation.
-</p>
-
-<p>
-<strong>Bunbury F</strong>, Rivas C, Calatrava V, Malkovskiy AV, Joubert L-M, Parvate AD, et al.
-<em>Cyanobacteria and Chloroflexota cooperate to structure light-responsive biofilms.</em>
-PNAS, 2025.
-</p>
-
-<p>
-Sayer AP, Llavero-Pasquina M, Geisler K, Holzer A, <strong>Bunbury F</strong>, Mendoza-Ochoa GI, et al.
-<em>Conserved cobalamin acquisition protein 1 is essential for vitamin B12 uptake in both Chlamydomonas and Phaeodactylum.</em>
-Plant Physiology, 2024.
-</p>
-
-<p>
-<strong>Bunbury F</strong>, Shelton AN, Bhaya D.
-<em>Shedding light on spatial structure and dynamics in phototrophic biofilms.</em>
-Current Opinion in Systems Biology, 2023.
-</p>
-
-<p>
-<strong>Bunbury F</strong>, Deery E, Sayer AP, Bhardwaj V, Harrison EL, Warren MJ, et al.
-<em>Exploring the onset of B12-based mutualisms.</em>
-Environmental Microbiology, 2022.
-</p>
-
-<p>
-<strong>Bunbury F</strong>, Helliwell KE, Mehrshahi P, Davey MP, Salmon DL, Holzer A, et al.
-<em>Responses of a newly evolved auxotroph to B12 deprivation.</em>
-Plant Physiology, 2020.
-</p>
-
-<p>
-<a href="Bunbury_CV.pdf" target="_blank">See full publication list in CV</a>
-</p>
-</div>
-  
+  <p>
+    <strong>Intrinsic traits: thermotolerance</strong><br>
+    I study how cyanobacteria adapt to high temperatures in hot springs, linking genomic features to growth and environmental distributions.
+  </p>
 </div>
 
 <div class="section">
-<h2>CV</h2>
-<p>
-<a href="./Bunbury_CV_20260429.pdf" target="_blank">Download CV (PDF)</a><br>
-<a href="https://scholar.google.co.uk/citations?user=_Tn0l5UAAAAJ&hl=en" target="_blank">Publications (Google Scholar)</a><br>
-<a href="https://www.linkedin.com/in/freddy-bunbury-36a4b6a0/" target="_blank">LinkedIn</a>
-</p>
+  <h2>Selected publications</h2>
+
+  <p>
+    <strong>Bunbury F</strong>, Janas T, Ghosh S, Scorza K, Mullen P, Donnat C et al.
+    <em>Bacterial vitamin sharing emerges from a balance between release and uptake.</em>
+    In preparation.
+  </p>
+
+  <p>
+    <strong>Bunbury F</strong>, Rivas C, Calatrava V, Malkovskiy AV, Joubert L-M, Parvate AD, et al.
+    <em>Cyanobacteria and Chloroflexota cooperate to structure light-responsive biofilms.</em>
+    PNAS, 2025.
+  </p>
+
+  <p>
+    Sayer AP, Llavero-Pasquina M, Geisler K, Holzer A, <strong>Bunbury F</strong>, Mendoza-Ochoa GI, et al.
+    <em>Conserved cobalamin acquisition protein 1 is essential for vitamin B<sub>12</sub> uptake in both Chlamydomonas and Phaeodactylum.</em>
+    Plant Physiology, 2024.
+  </p>
+
+  <p>
+    <strong>Bunbury F</strong>, Shelton AN, Bhaya D.
+    <em>Shedding light on spatial structure and dynamics in phototrophic biofilms.</em>
+    Current Opinion in Systems Biology, 2023.
+  </p>
+
+  <p>
+    <strong>Bunbury F</strong>, Deery E, Sayer AP, Bhardwaj V, Harrison EL, Warren MJ, et al.
+    <em>Exploring the onset of B<sub>12</sub>-based mutualisms.</em>
+    Environmental Microbiology, 2022.
+  </p>
+
+  <p>
+    <strong>Bunbury F</strong>, Helliwell KE, Mehrshahi P, Davey MP, Salmon DL, Holzer A, et al.
+    <em>Responses of a newly evolved auxotroph to B<sub>12</sub> deprivation.</em>
+    Plant Physiology, 2020.
+  </p>
+
+  <p>
+    <a href="./Bunbury_CV_20260429.pdf" target="_blank">See full publication list in CV</a>
+  </p>
 </div>
 
 <div class="section">
-<h2>Contact</h2>
-<p>
-Email: fbunbury@uchicago.edu<br>
-GitHub: <a href="https://github.com/freddybunbury1">freddybunbury1</a>
-</p>
+  <h2>CV</h2>
+
+  <p>
+    <a href="./Bunbury_CV_20260429.pdf" target="_blank">Download CV (PDF)</a><br>
+    <a href="https://scholar.google.co.uk/citations?user=_Tn0l5UAAAAJ&hl=en" target="_blank">Publications (Google Scholar)</a><br>
+    <a href="https://www.linkedin.com/in/freddy-bunbury-36a4b6a0/" target="_blank">LinkedIn</a>
+  </p>
+</div>
+
+<div class="section">
+  <h2>Contact</h2>
+
+  <p>
+    Email: fbunbury@uchicago.edu<br>
+    GitHub: <a href="https://github.com/freddybunbury1">freddybunbury1</a>
+  </p>
 </div>
 
 </body>
 </html>
-
