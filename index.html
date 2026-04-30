@@ -6,7 +6,7 @@
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-      max-width: 800px;
+      max-width: 900px;
       margin: 60px auto;
       line-height: 1.6;
       padding: 0 20px;
@@ -23,56 +23,99 @@
 
     .profile-header {
       display: flex;
-      gap: 30px;
-      align-items: center;
+      gap: 45px;
+      align-items: flex-start;
       margin-bottom: 50px;
     }
 
-    .profile-photo {
-      width: 110px;
-      height: 110px;
-      border-radius: 50%;
-      object-fit: cover;
+    .profile-sidebar {
+      width: 250px;
       flex-shrink: 0;
+      text-align: center;
     }
 
-    @media (max-width: 650px) {
+    .profile-photo {
+      width: 250px;
+      height: 250px;
+      object-fit: cover;
+      display: block;
+      margin-bottom: 18px;
+    }
+
+    .profile-role {
+      font-weight: 600;
+      margin: 0;
+    }
+
+    .profile-affiliation,
+    .profile-email {
+      margin: 2px 0;
+      color: #555;
+      font-size: 0.95em;
+    }
+
+    .icon-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .icon-links a {
+      border: 1px solid #ddd;
+      padding: 7px 11px;
+      border-radius: 999px;
+      color: #222;
+      text-decoration: none;
+      font-size: 0.95em;
+    }
+
+    .icon-links a:hover {
+      background: #f5f5f5;
+    }
+
+    @media (max-width: 750px) {
       .profile-header {
         display: block;
       }
 
+      .profile-sidebar {
+        width: 100%;
+        text-align: left;
+        margin-bottom: 30px;
+      }
+
       .profile-photo {
-        margin-bottom: 20px;
+        width: 220px;
+        height: 220px;
+      }
+
+      .icon-links {
+        justify-content: flex-start;
       }
     }
-    .icon-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-top: 18px;
-}
-
-.icon-links a {
-  border: 1px solid #ddd;
-  padding: 7px 11px;
-  border-radius: 999px;
-  color: #222;
-  text-decoration: none;
-  font-size: 0.95em;
-}
-
-.icon-links a:hover {
-  background: #f5f5f5;
-}
   </style>
 </head>
 
 <body>
 
 <div class="profile-header">
-  <img src="./media/headshot-1.jpg" alt="Freddy Bunbury" class="profile-photo">
+  <div class="profile-sidebar">
+    <img src="./media/headshot-1.jpg" alt="Freddy Bunbury" class="profile-photo">
 
-  <div>
+    <p class="profile-role">Research Scientist</p>
+    <p class="profile-affiliation">University of Chicago</p>
+    <p class="profile-email">fbunbury@uchicago.edu</p>
+
+    <div class="icon-links">
+      <a href="./Bunbury_CV_20260429.pdf" target="_blank">📄 CV</a>
+      <a href="https://scholar.google.co.uk/citations?user=_Tn0l5UAAAAJ&hl=en" target="_blank">🎓 Scholar</a>
+      <a href="https://www.linkedin.com/in/freddy-bunbury-36a4b6a0/" target="_blank">💼 LinkedIn</a>
+    </div>
+  </div>
+
+  <div class="profile-text">
     <h1>Freddy Bunbury</h1>
 
     <p>
@@ -84,13 +127,6 @@
       <li>Predicting traits from genomes and identifying associated genes</li>
       <li>Modeling microbial intrinsic and interaction traits to predict performance in communities</li>
     </ul>
-    
-    <div class="icon-links">
-      <a href="./Bunbury_CV_20260429.pdf" target="_blank">📄 CV</a>
-      <a href="https://scholar.google.co.uk/citations?user=_Tn0l5UAAAAJ&hl=en" target="_blank">🎓 Scholar</a>
-      <a href="https://www.linkedin.com/in/freddy-bunbury-36a4b6a0/" target="_blank">💼 LinkedIn</a>
-      <a href="mailto:fbunbury@uchicago.edu">✉️ Email</a>
-   </div>
   </div>
 </div>
 
@@ -149,25 +185,6 @@
 
   <p>
     <a href="./Bunbury_CV_20260429.pdf" target="_blank">See full publication list in CV</a>
-  </p>
-</div>
-
-<div class="section">
-  <h2>CV</h2>
-
-  <p>
-    <a href="./Bunbury_CV_20260429.pdf" target="_blank">Download CV (PDF)</a><br>
-    <a href="https://scholar.google.co.uk/citations?user=_Tn0l5UAAAAJ&hl=en" target="_blank">Publications (Google Scholar)</a><br>
-    <a href="https://www.linkedin.com/in/freddy-bunbury-36a4b6a0/" target="_blank">LinkedIn</a>
-  </p>
-</div>
-
-<div class="section">
-  <h2>Contact</h2>
-
-  <p>
-    Email: fbunbury@uchicago.edu<br>
-    GitHub: <a href="https://github.com/freddybunbury1">freddybunbury1</a>
   </p>
 </div>
 
