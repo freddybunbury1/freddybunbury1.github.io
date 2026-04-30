@@ -95,6 +95,31 @@
         justify-content: flex-start;
       }
     }
+    .research-item {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+  margin-top: 35px;
+}
+
+.research-image {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+@media (max-width: 750px) {
+  .research-item {
+    display: block;
+  }
+
+  .research-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 18px;
+  }
+}
   </style>
 </head>
 
@@ -133,17 +158,28 @@
 <div class="section">
   <h2>Research</h2>
 
-  <p>
-    <strong>Interaction traits: vitamin B<sub>12</sub> exchange</strong><br>
-    I quantify B<sub>12</sub> synthesis, release, and uptake traits across bacterial isolates to understand how metabolites are shared and how this shapes community structure.
-  </p>
+  <div class="research-item">
+    <img src="./media/b12_phase_diagram.jpg" alt="Vitamin B12 exchange traits" class="research-image">
 
-  <p>
-    <strong>Intrinsic traits: thermotolerance</strong><br>
-    I study how cyanobacteria adapt to high temperatures in hot springs, linking genomic features to growth and environmental distributions.
-  </p>
+    <div>
+      <h3>Interaction traits: vitamin B<sub>12</sub> exchange</h3>
+      <p>
+        I quantify B<sub>12</sub> synthesis, release, and uptake traits across bacterial isolates to understand how metabolites are shared and how this shapes community structure.
+      </p>
+    </div>
+  </div>
+
+  <div class="research-item">
+    <img src="./media/thermostichus_tpcs.png" alt="Thermal performance curves in cyanobacteria" class="research-image">
+
+    <div>
+      <h3>Intrinsic traits: thermotolerance</h3>
+      <p>
+        I study how cyanobacteria adapt to high temperatures in hot springs, linking genomic features to growth and environmental distributions.
+      </p>
+    </div>
+  </div>
 </div>
-
 <div class="section">
   <h2>Selected publications</h2>
 
