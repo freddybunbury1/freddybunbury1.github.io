@@ -5,6 +5,29 @@
   <meta charset="UTF-8">
   <title>Freddy Bunbury</title>
   <style>
+    .profile-header {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+@media (max-width: 650px) {
+  .profile-header {
+    display: block;
+  }
+
+  .profile-photo {
+    margin-bottom: 20px;
+  }
+}
     body {
       font-family: -apple-system, BlinkMacSystemFont, sans-serif;
       max-width: 800px;
